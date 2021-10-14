@@ -10,10 +10,9 @@ require (
 	github.com/hashicorp/consul/api v1.9.1 // indirect
 	github.com/jinzhu/gorm v1.9.16 // indirect
 	github.com/micro/go-plugins/registry/consul v0.0.0-20200119172437-4fe21aa238fd // indirect
-	github.com/stretchr/testify v1.5.1 // indirect
+	github.com/micro/micro/v3 v3.5.0 // indirect
 	github.com/tedcy/fdfs_client v0.0.0-20200106031142-21a04994525a // indirect
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d // indirect
-	golang.org/x/net v0.0.0-20200822124328-c89045814202 // indirect
 	google.golang.org/grpc v1.39.0 // indirect
 )
 
